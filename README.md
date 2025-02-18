@@ -30,7 +30,7 @@ Ensure your MySQL or MariaDB server is running and your database is configured c
 
 Here's a preview of what the app looks like:
 
-![nootpad](output.png)
+![nootpad](output.jpg)
 
 > *Note: The screenshot should show the main page of the notepad, where users can see their list of notes, and interact with the "edit" and "delete" buttons.*
 
