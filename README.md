@@ -58,15 +58,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Uses `mysqli` for database interaction.
 - Responsive design using Bootstrap.
 
----
-
-Feel free to contribute and modify the project as needed. If you encounter any issues or have any suggestions, please create an issue on GitHub.
-
-```
-
-### Points to Consider:
-1. **Screenshots**: If you want to add screenshots, place the image in the project directory (e.g., `screenshot.png`) and reference it in the `README.md` using the `![Screenshot](screenshot.png)` syntax. Replace the screenshot path accordingly.
-   
-2. **Database**: Since you mentioned a database (`note` table in the code), it would be helpful to include information about setting up the database in the readme or provide the structure of the table (like `title`, `desc`, and `ids` columns).
-
-Let me know if you need more specific details or adjustments!
